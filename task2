@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      margin-top: 0;
+    }
+
+    .section {
+      margin-bottom: 20px;
+    }
+
+    .section h2 {
+      margin-bottom: 10px;
+    }
+
+    .section ul {
+      padding-left: 20px;
+      margin: 0;
+    }
+
+    .section ul li {
+      margin-bottom: 5px;
+    }
+
+    .section .description {
+      margin-top: 5px;
+    }
+  </style>
+</head>
+<body>
+<style> .img {
+border:1px solid #ddd;
+border-radius:4ps;
+}
+</style>
+<div class="img" style="text-align: center;"><img src="passportsizephot.jpeg" alt="passportsizephot"></img>
+</div>
+ <style="text-align: center;"><h1>Vagdevi</h1><br>
+  <style>
+  div{
+  border:3px solid black;
+  padding-right: 75px;
+  }
+  </style>
+  <p>123 Main Street, Anytown, INDIA</p>
+  <p>+91 1234567890</p>
+  <p>vagdevigurugu@gmail.com</p></div><br>
+  <div class="section">
+    <h2>Education</h2>
+    <ul>
+      <li>
+        <strong>Bachelor of Engineering</strong><br>
+        Stanley College of Engineering and Technology for Women, Hyderabad, INDIA<br>
+        Graduated May 2025
+      </li>
+    </ul>
+  <div class="section">
+    <h2>Experience</h2>
+    <ul>
+      <li>
+        <strong>Software Developer</strong><br>
+        microsoft Company,Hyderabad,India<br>
+        January 2020 - Present
+        <p class="PROJECTS"> 
+         o Develop a system to detect fake reviews posted online using machine learning techniques and the Python 
+programming language.
+ Build a robust machine learning model to classify reviews as genuine or fake.
+ Develop a user-friendly interface to detect fake reviews in real-time.
+ Technologies and tools: Python programming language, Web scraping tools for data collection.
+ Data Collection: Scrape online platforms (e.g., e-commerce websites, review forums) to collect a diverse 
+dataset of reviews.
+ Real-Time Detection: Develop a user-friendly web-based interface using Flask or Django to allow users to 
+input reviews for detection.
+ Develop a mobile application for easy access to the fake reviews detection system
+      </li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>Python</li>
+    </ul>
+  </div>
+  <table border=9><th>Internship</th>  <br>
+<th>VERZO | Cybersecurity
+ Worked on a cybersecurity project focused on identifying vulnerabilities and protecting systems from 
+attacks involving footprinting, phishing, and SQL injections. Leveraged knowledge of cybersecurity 
+principles and techniques to ensure the security and integrity of computer systems and data.
+ Develop effective countermeasures and preventive measures to safeguard systems against footprinting, 
+phishing, and SQL injection attacks.
+ Technologies and Tools: Cybersecurity tools for footprinting analysis (e.g., Nmap, Shodan),
+SQL injection testing frameworks (e.g., SQLMap), Phishing simulation platforms (e.g., GoPhish)
+ Expand the scope of the project to cover additional cybersecurity areas, such as malware analysis, 
+network intrusion detection</th></table><br>
+  <div><h3>OTHER INFORMATION:-</h3>
+<ul>
+<li>• Languages English | Hindi | Telugu
+• Technical Skills MS-Word | MS-PowerPoint | C | ML | Data science | Java | python
+• Familiar Project Management
+• Other Skills Teamwork | Leadership | Work Adaptability
+• Personal Interests Travelling | Cooking | Sports</li>
+  <table border=9><th>Acadamic Achievements</th><br>
+<th>Project selected for Government funding which is navigation for blind people using echo location</th></table><br>
+<table border=9><th>Hobbies</th>
+<td>Football,Cricket,Music,Coding,Travelling,Adventures,Trekking</td></table><br>
+<table border=9><th>Extra-Curricular Activities Achievements</th>
+<td>Represented the college team in a national level football tournament</td>
+<td></td>
+<table border=9><th>Extra-Curricular Activities Achievements</th>
+<td>Winners of a interschool Basketball Tournament held at my school</td>
+<td></td>
+</body>
+</html>
